@@ -19,7 +19,7 @@ if (gender == "Male")
     {
         Console.WriteLine("Niepełnoletni Mężczyzna");
     }
-    else if(age >= 18)
+    else if (age >= 18)
     {
         Console.WriteLine("Pełnoletni Mężczyzna");
     }
